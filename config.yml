@@ -78,27 +78,16 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Ayesh Kavinda.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
+          url: mailto:ayeskavinda@gmail.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ayesh-kavinda-5b3560342
+        - name: GitHub
+          url: https://github.com/ayeshhk
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
-        - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+
 
     assets:
         disableScrollBarStyle: true
