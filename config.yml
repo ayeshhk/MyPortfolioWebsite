@@ -35,7 +35,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: dark
     hideFooter: false
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -61,7 +61,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: About Me
               url: papers/
             - name: Data
               url: data/
