@@ -21,7 +21,7 @@ Focused on MS office, Adobe Photoshop, and Microsoft Power BI
 
 🏅 Successfully completed with a Distinction pass
 
-## Schools Attended
+### Schools Attended
 
 - 🏫 Kuruduwatte Royal College, Kuruduwatte (2014 – 2019)
 - 🏫 Dharmaraja College, Kandy (2020 – 2022)

@@ -1,14 +1,12 @@
 ---
 title: "Experience"
-description: "Template page for your professional, academic, and research roles."
+description: "Professional experiences."
 ---
-
-Use this page to describe your work experience and the responsibilities you have held.
 
 ## Professional and Academic Experience
 
-### [Role or Position Title]
-[Institution or organization] 📅 [Start Date – End Date]
+### Computer Operator (Intern)
+SLT Mobitel Gampola RT Office 📅 [2024 June – 2024 December]
 
 - [Short summary of what you did in this role]
 - [Key achievements, responsibilities, or projects]
@@ -28,7 +26,7 @@ Use this page to describe your work experience and the responsibilities you have
 ## Skills and Methods
 
 - [Skill or methodology]
-- [Skill or methodology]
+- [Skill or methodology]perience
 - [Skill or methodology]
 
 Replace the bracketed placeholders with your own experiences and remove any sections you do not need.
