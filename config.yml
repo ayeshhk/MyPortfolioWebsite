@@ -18,7 +18,7 @@ menu:
         - name: Experience
           url: experience/
           weight: 2
-        - name: Qualifications
+        - name: 
           url: education/
           weight: 3
         - name: Projects

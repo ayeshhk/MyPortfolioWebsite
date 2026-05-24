@@ -1,6 +1,6 @@
 ---
 title: "Education"
-description: "Template page for professional qualifications, education qualifications, and schools attended."
+description: "professional qualifications, education qualifications, and schools attended."
 ---
 
 ## Professional Qualifications
