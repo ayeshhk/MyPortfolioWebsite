@@ -1,30 +1,37 @@
 ---
 title: "About Me"
-description: "Template page for your personal introduction, values, and professional profile."
+Description: "About Me"
 ---
-
-Use this page to introduce yourself, your background, and your key strengths.
 
 ## Introduction
 
-[Write a brief personal introduction here. Include your current role, main research or teaching interests, and what motivates your work.]
+Hello! I’m Ayesh Kavinda, an aspiring IT professional with a passion for web development, digital technologies, and creative problem-solving. I enjoy building clean, modern, and user-friendly digital experiences that combine functionality with great design.
 
-## Background
+Currently, I am completing a Higher National Diploma in Digital Technologies, specializing in Cloud Networking. Through my academic journey and practical experiences, I have developed skills in web technologies, computer systems, networking, teamwork, communication, and project handling. I am always eager to learn emerging technologies, strengthen my technical expertise, and take on new challenges that help me grow professionally.
 
-- [Your academic discipline or field of study]
-- [Your main research themes or teaching areas]
-- [Any institutions, organizations, or communities you work with]
+Beyond technology, I value creativity, adaptability, and continuous self-improvement. My goal is to become a skilled IT professional capable of building impactful and innovative digital solutions that make a difference.
 
-## What I Do
+## Contact Information
 
-- [Describe your main work in research, teaching, or projects]
-- [Mention the audiences you support, such as students, researchers, or professionals]
-- [Add a sentence about how you present your work online or through publications]
+| | |
+|---|---|
+| **Phone** | 076-6149422 / 074-3213308 |
+| **Email** | [ayeskavinda@gmail.com](mailto:ayeskavinda@gmail.com) |
+| **Address** | Gampola, Sri Lanka |
 
-## Interests
 
-- [Interest or area of expertise]
-- [Interest or area of expertise]
-- [Interest or area of expertise]
+## Languages
 
-Replace the bracketed text with your details and remove any sections you do not need.
+- Sinhala
+- English
+
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Java, Python |
+| **Web Development** | HTML, CSS, JavaScript, React |
+| **Cloud Computing** | AWS |
+| **Database Management** | MySQL |
+| **Version Control** | Git, GitHub |
