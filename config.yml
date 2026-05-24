@@ -12,11 +12,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: About Me
           url: papers/
+          weight: 1
+        - name: Experience
+          url: data/
           weight: 2
         - name: Courses
           url: courses/
@@ -63,7 +63,7 @@ params:
           buttons:
             - name: About Me
               url: papers/
-            - name: Data
+            - name: Experience
               url: data/
             - name: Books
               url: books/
