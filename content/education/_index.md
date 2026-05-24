@@ -3,61 +3,27 @@ title: "Education"
 description: "Template page for professional qualifications, education qualifications, and schools attended."
 ---
 
-Add your education and qualification details below. Replace the placeholder text with your own information.
-
 ## Professional Qualifications
 
-### 🎓 [Qualification Title]
+### 🎓 Higher National Diploma in Digital Technologies
 
-[Institution Name] 📅 [Start Date – End Date]
+Nebula Institute of Technology 📅 2024 – 2026 (Present)
 
-[Short description of the qualification, subjects covered, or why it is important.]
-
-🏅 [Completion status or grade, if applicable]
+Studying about Programming, Web development and Data Analytics with specialization in cloud networking.
 
 ---
 
-### 🎓 [Second Qualification Title]
+### 🎓 Certificate in Applied Information Technology
 
-[Institution Name] 📅 [Start Date – End Date]
+Nebula Institute of Technology 📅 2024
 
-[Short description of the qualification.]
+Focused on MS office, Adobe Photoshop, and Microsoft Power BI
 
-🏅 [Completion status or grade, if applicable]
-
-## Education Qualifications
-
-### 📜 G.C.E Ordinary Level – [Year]
-
-Index Number: [Index Number]
-
-| Subject | Grade |
-| --- | --- |
-| Sinhala | [Grade] |
-| English Language | [Grade] |
-| Mathematics | [Grade] |
-| Science | [Grade] |
-| [Subject] | [Grade] |
-| [Subject] | [Grade] |
-
----
-
-### 📜 G.C.E Advanced Level – [Year]
-
-Index Number: [Index Number]
-
-| Subject | Grade |
-| --- | --- |
-| [Subject] | [Grade] |
-| [Subject] | [Grade] |
-| [Subject] | [Grade] |
-| [Subject] | [Grade] |
+🏅 Successfully completed with a Distinction pass
 
 ## Schools Attended
 
-- 🏫 [School Name], [Location] ([Start Year – End Year])
-- 🏫 [School Name], [Location] ([Start Year – End Year])
+- 🏫 Kuruduwatte Royal College, Kuruduwatte (2014 – 2019)
+- 🏫 Dharmaraja College, Kandy (2020 – 2022)
 
-## Additional Notes
 
-- [Add any extra certifications, awards, workshops, or training here.]
