@@ -13,20 +13,17 @@ taxonomies:
 menu:
     main:
         - name: About Me
-          url: papers/
+          url: about-me/
           weight: 1
         - name: Experience
-          url: data/
+          url: experience/
           weight: 2
         - name: Education
-          url: courses/
+          url: education/
           weight: 3
         - name: Projects
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: projects/
+          weight: 4
 
 params:
     description: "This website hosts Ayesh Kavinda's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["Qualifications","Education","About Me","Experience","Projects","Publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -62,13 +59,13 @@ params:
           imageHeight: 160
           buttons:
             - name: About Me
-              url: papers/
+              url: about-me/
             - name: Experience
-              url: data/
-            - name: Education
-              url: courses/
+              url: experience/
+            - name: Qualifications
+              url: qualifications/
             - name: Projects
-              url: data/
+              url: projects/
  
 
     socialIcons:
